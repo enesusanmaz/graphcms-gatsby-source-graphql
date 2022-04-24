@@ -1,0 +1,14 @@
+{
+  "name": "graphcms-gatsby-source-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/enesusanmaz/graphcms-gatsby-source-graphql.git",
+  "author": "Enes Usanmaz <enes.usanmaz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^4.12.1",
+    "gatsby-source-graphql": "^4.12.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
